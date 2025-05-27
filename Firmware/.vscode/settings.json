@@ -6,5 +6,5 @@
     },
     "particle.firmwareVersion": "6.2.1",
     "particle.targetPlatform": "boron",
-    "particle.targetDevice": "Boron"
+    "particle.targetDevice": ""
 }
