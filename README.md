@@ -15,7 +15,11 @@ This repository outlines the integration of a Meter CTD and a Particle Boron. Th
 
 Explore and learn more about these two electronics we are using here: 
 - [Meter CTD](https://metergroup.com/products/hydros-21/)
+  ![image](https://github.com/user-attachments/assets/98af398b-e5e4-493e-81ec-0d542da2fe86)
+
 - [Particle Boron 404x](https://store.particle.io/products/boron-lte-cat-m1-noram-with-ethersim-4th-gen?srsltid=AfmBOorHx31GWq4IeQavaX2ePNGsbMFQteTf-O0mL9GnkE8jHbQbHShg)
+  ![image](https://github.com/user-attachments/assets/596abf2d-71be-488b-9b11-406e2439d4bf)
+
 
 ## ⬇️ How to get around!
 
