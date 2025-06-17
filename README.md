@@ -9,7 +9,7 @@
 
 ## ℹ️ Overview
 
-This repository outlines the integration of a Meter CTD and a Particle Boron. These two sensors combined will allow for accurate data collection with easy cellular communication for real-time data and visualization. 
+This repository outlines the integration of a Meter CTD and a Particle Boron. These two sensors combined will allow for accurate data collection od conductivity, water temperature, depth, and air pressure with easy cellular communication for real-time data and visualization. 
 
 Explore and learn more about these two electronics we are using here: 
 - [Meter CTD](https://metergroup.com/products/hydros-21/)
