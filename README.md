@@ -23,6 +23,12 @@ What are you looking for in this repository?
 - Updated scripts with current libraries? Go to [Firmware](https://github.com/BentleySettin/MeterCTD/tree/ba0404429f45d6b78e378566db7e1a76302030d5/Firmware)!
 - How to electronically connect the MeterCTD and Boron using wires? Go to the [Circuit Diagram](https://github.com/BentleySettin/MeterCTD/blob/ba0404429f45d6b78e378566db7e1a76302030d5/Fabrication/CircuitDiagram.png)!
 
+## 💭 Learn more about DDI Interface
+
+The interface we chose to communicate between the Particle Boron and Meter CTD is the DDI Interface. The HYDROS Meter CTD can function using DDI interface or SDI-12 interface. SDI-12 interface is a standardized communication protocol used to connect sensors with data loggers and data acquisition systems. It allows multiple uniquely addressed sensors to operate on a shared 3-wire bus consisting of power, ground, and data lines. Due to this project focusing on one addressed sensor we chose the DDI interface. The DDI serial protocol is used by METER data loggers to collect data from the sensor. It operates over a reciever only data line, meaning data is transmitted only from the sensor to the receiver. Typically, the receiving end is either a microprocessor UART or a general-purpose I/O pin configured to receive data using a bit-banging method. 
+
+Information was supplied from this [HYDROS 21 Integrator Guide](https://library.metergroup.com/Integrator%20Guide/18281_HYDROS21(CTD)_GEN1.pdf?_gl=1*1cipulk*_gcl_au*MTIwMzA0NDExMC4xNzM3NDk3MDQ1).
+
 ### ✍️ Authors
 
 Hello, I am [Bentley Settin](https://github.com/BentleySettin)! I am a M.S. Student at UNCW working under[ Dr. Phil Bresnahan](https://github.com/SUPScientist). Check out our [lab](https://github.com/COAST-Lab) and all the fun projects we have going on!  
