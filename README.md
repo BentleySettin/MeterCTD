@@ -2,14 +2,16 @@
 
 ## 🌟 Highlights
 
+- Measuring conductivity, temperature, and depth (CTD)
 - Low-cost sensor 
 - Open Source data
+- Cellular cabailities
 - Easy integration for research and educational purposes!
 
 
 ## ℹ️ Overview
 
-This repository outlines the integration of a Meter CTD and a Particle Boron. These two sensors combined will allow for accurate data collection od conductivity, water temperature, depth, and air pressure with easy cellular communication for real-time data and visualization. 
+This repository outlines the integration of a Meter CTD and a Particle Boron. These two sensors combined will allow for accurate data collection of conductivity, water temperature, depth, and air pressure with easy cellular communication for real-time data and visualization. 
 
 Explore and learn more about these two electronics we are using here: 
 - [Meter CTD](https://metergroup.com/products/hydros-21/)
@@ -18,8 +20,8 @@ Explore and learn more about these two electronics we are using here:
 ## ⬇️ How to get around!
 
 What are you looking for in this repository?
-- Want to find updated scripts with current libraries? Go to [Firmware](https://github.com/BentleySettin/MeterCTD/tree/ba0404429f45d6b78e378566db7e1a76302030d5/Firmware)!
-- Want to know how to electronically connect the MeterCTD and Boron using wires? Go to the [Circuit Diagram](https://github.com/BentleySettin/MeterCTD/blob/ba0404429f45d6b78e378566db7e1a76302030d5/Fabrication/CircuitDiagram.png)!
+- Updated scripts with current libraries? Go to [Firmware](https://github.com/BentleySettin/MeterCTD/tree/ba0404429f45d6b78e378566db7e1a76302030d5/Firmware)!
+- How to electronically connect the MeterCTD and Boron using wires? Go to the [Circuit Diagram](https://github.com/BentleySettin/MeterCTD/blob/ba0404429f45d6b78e378566db7e1a76302030d5/Fabrication/CircuitDiagram.png)!
 
 ### ✍️ Authors
 
